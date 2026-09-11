@@ -27,7 +27,7 @@ que vous réarrangez ensuite au canvas.
 
 ## 1. Installer ScopeNod
 
-1. Ouvrez la page [**Releases**](https://github.com/Hrobitaillie/pbones-updates/releases/latest).
+1. Ouvrez la page [**Releases**](https://github.com/Hrobitaillie/scopenod-releases/releases/latest).
 2. Téléchargez le `…-setup.exe` de la dernière version et lancez-le (installeur Windows).
 3. Au premier lancement, l'app se déclare comme éditeur des fichiers `.scopenod`.
 
