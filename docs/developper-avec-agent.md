@@ -45,6 +45,11 @@ Deux façons de brancher Claude Code sur un projet :
 Pour cibler un autre projet plus tard, recliquez sur « Connecter Claude » depuis ce nouveau projet, ou
 relancez la commande avec le nouveau chemin.
 
+{: .note }
+> Ces deux façons supposent que l'agent tourne **sur votre poste**, à côté de l'app ouverte. Si vous
+> développez plutôt **directement sur un serveur** (SSH, VS Code Remote-SSH), voir [Développer
+> directement sur un serveur](developper-sur-un-serveur.html) — un exécutable autonome dédié à ce cas.
+
 ## Le flux de travail type
 
 Un agent connecté au projet suit typiquement cette boucle avant d'écrire du code :
